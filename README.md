@@ -12,7 +12,7 @@ My goal is to craft solutions that merge performance, maintainability, and seaml
 - 🌱 Continuously learning **cloud deployment**, **microservices**, and **AI integrations**  
 - 👯 Open to collaborations on innovative ideas, open-source projects, and full-stack solutions  
 - 🤝 Strong advocate for **clean architecture**, **testing**, and **best coding practices**  
-- 📫 Reach out: [muhammadismailkhan.dev@gmail.com](mailto:muhammadismailkhan.dev@gmail.com)  
+- 📫 Reach out: [ismailblouch@yahoo.com](mailto:ismailblouch@yahoo.com)  
 - ⚡ Fun fact: I love writing clean, optimized TypeScript code and debugging complex backend logic at night 🌙  
 
 ---
@@ -20,7 +20,7 @@ My goal is to craft solutions that merge performance, maintainability, and seaml
 ## 🚀 Portfolio
 
 Explore my personal portfolio to see my latest projects and work samples:  
-👉 **[https://ismail-dev-portfolio.vercel.app/](https://ismail-dev-portfolio.vercel.app/)**  
+👉 **[https://ismail-dev-portfolio.vercel.app](https://ismail-dev-portfolio.vercel.app)**  
 
 ---
 
@@ -69,10 +69,10 @@ Explore my personal portfolio to see my latest projects and work samples:
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/muhammad-ismail-khan)  
-- 💻 [GitHub](https://github.com/muhammadismailkhan)  
+- 💼 [LinkedIn](www.linkedin.com/in/ismailkhanbaloch)  
+- 💻 [GitHub](https://github.com/IsmailBlouch)  
 - 🌐 [Portfolio](https://ismail-dev-portfolio.vercel.app/)  
-- ✉️ [Email Me](mailto:muhammadismailkhan.dev@gmail.com)
+- ✉️ [Email Me](mailto:ismailblouch@yahoo.com)
 
 ---
 
