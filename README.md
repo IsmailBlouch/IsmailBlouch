@@ -53,8 +53,7 @@ Explore my personal portfolio to see my latest projects and work samples:
 
 - 🏥 [Practice Management System (PMS)](https://pms.hawkrevenue.com/#/login) – Healthcare practice management and billing platform  
 - 💬 [VoiceAudit AI](https://uat.voiceauditai.com/) – AI-powered voice analysis and transcription system  
-- 💳 [ClearFunds](https://clearfunds.app/sign-in) – Financial tracking and payment management solution  
-- 🌍 [Travel Industry Solutions](https://travelindustrysolutions.com/) – Business solutions for travel companies  
+
 
 ---
 
@@ -69,7 +68,7 @@ Explore my personal portfolio to see my latest projects and work samples:
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](www.linkedin.com/in/ismailkhanbaloch)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ismailkhanbaloch/)  
 - 💻 [GitHub](https://github.com/IsmailBlouch)  
 - 🌐 [Portfolio](https://ismail-dev-portfolio.vercel.app/)  
 - ✉️ [Email Me](mailto:ismailblouch@yahoo.com)
